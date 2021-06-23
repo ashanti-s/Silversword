@@ -6,7 +6,7 @@ Argyroxiphium sandwicense subsp. macrocephalum, the east Maui silversword or Hal
 <param ve-image fit="contain" url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Argyroxiphium_sandwicense_subsp._macrocephalum.png">
 
 The Haleakala silversword is found on the island of Maui at elevations above 2,100 metres (6,900 ft) on the dormant Haleakalā volcano—on the summit depression, the rim summits, and surrounding slopes—in Haleakalā National Park. The Haleakala silversword has been a threatened species as defined by the U.S. Fish and Wildlife Service, since May 15, 1992. Prior to that time, excessive grazing by cattle and goats, and vandalism inflicted by people in the 1920s, had caused its near extinction. Since strict monitoring and governmental protection took effect, the species' recovery is considered a successful conservation story, although threats remain.
-<param ve-map center="Q515719" zoom="10">
+<param ve-map center="Q515719" zoom="9">
 
 The Haleakala silversword, Argyroxiphium sandwicense subsp. macrocephalum, has numerous sword-like succulent leaves covered with silver hairs. Silversword plants in general grow on volcanic cinder, a dry, rocky substrate that is subject to freezing temperatures and high winds. The skin and hairs are strong enough to resist the wind and freezing temperature of this altitude and protect the plant from dehydration and the sun.
 
