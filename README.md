@@ -1,4 +1,4 @@
-<param ve-config title="Silversword" author="Ashanti Shih" layout="vertical" banner="https://picsum.photos/id/164/1000/400">
+<param ve-config title="Silversword" author="Ashanti Shih" layout="vertical" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Haleakala-Silversword-Hawaii.jpg/1280px-Haleakala-Silversword-Hawaii.jpg">
 
 # Silversword
 
